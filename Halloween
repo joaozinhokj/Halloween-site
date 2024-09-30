@@ -1,0 +1,18 @@
+        <!-- Nova Seção de Compra de Ingressos -->
+        <section id="ingressos" class="ingressos">
+            <h2>Compra de Ingressos</h2>
+            <p>Adquira seu ingresso antecipado via Pix ou pague no dia do evento com dinheiro físico.</p>
+            <div class="ingresso-options">
+                <div class="pix-option">
+                    <h3>Pagamento via Pix</h3>
+                    <p>Chave Pix: <strong>exemplo@pix.com.br</strong></p>
+                    <p>Valor: R$ 10 (mulheres) | R$ 15 (homens)</p>
+                    <p>Após o pagamento, envie o comprovante para o WhatsApp <strong>(92) 092029333</strong>.</p>
+                </div>
+                <div class="dinheiro-option">
+                    <h3>Pagamento no dia</h3>
+                    <p>Se preferir pagar com dinheiro no dia do evento, entre em contato conosco:</p>
+                    <p><strong>Tel: (92) 092029333</strong></p>
+                </div>
+            </div>
+        </section>
